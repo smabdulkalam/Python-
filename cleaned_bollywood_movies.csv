@@ -1,0 +1,28 @@
+index,MovieID,Title,Director,Genre,ReleaseYear,Budget (Crores),BoxOffice (Crores),Rating,Duration (minutes),LeadActor,LeadActress,Language,ProductionCompany
+0,MOV001,Lagaan,Ashutosh Gowariker,,2001,50,100,8.1,224,Aamir Khan,Gracy Singh,hindi,Aamir Khan Productions
+1,MOV002,Kabhi Khushi Kabhie Gham...,Karan Johar,Family Drama,2001,50,100,7.9,210,Shah Rukh Khan,Kajol,hindi,Dharma Productions
+2,MOV003,M.S. Dhoni: The Untold Story,Neeraj Pandey,Biographical Sports Drama,2016,50,215,7.9,184,Sushant Singh Rajput,Kiara Advani,hindi,Fox Star Studios
+4,MOV005,Chennai Express,Rohit Shetty,Action Comedy,2013,50,423,6.4,141,Shah Rukh Khan,Deepika Padukone,hindi,Red Chillies Entertainment
+5,MOV006,Bharat,Ali Abbas Zafar,Drama,2019,100,325,6.8,156,Salman Khan,Katrina Kaif,hindi,Reel Life Productions
+6,MOV007,Dangal,Nitesh Tiwari,Biographical Sports Drama,2016,70,2140,8.1,161,Aamir Khan,Fatima Sana Shaikh,hindi,Aamir Khan Productions
+8,MOV009,PK,Rajkumar Hirani,Satirical Science Fiction Comedy,2014,85,792,8.1,153,Aamir Khan,Anushka Sharma,hindi,Vinod Chopra Films
+10,MOV011,Bajirao Mastani,Sanjay Leela Bhansali,Historical Romance,2015,120,565,7.5,158,Ranveer Singh,Deepika Padukone,hindi,SLB Films
+11,MOV012,Dilwale Dulhania Le Jayenge,Aditya Chopra,Romance,1995,50,250,7.7,189,Shah Rukh Khan,Kajol,hindi,Yash Raj Films
+12,MOV013,Krrish 3,Rakesh Roshan,Superhero Science Fiction,2013,115,530,5.5,152,Hrithik Roshan,Priyanka Chopra,hindi,Filmkraft Productions
+13,MOV014,Raees,Rahul Dholakia,Action Thriller,2017,85,395,7.2,143,Shah Rukh Khan,Mahira Khan,hindi,Red Chillies Entertainment
+14,MOV015,Tiger Zinda Hai,Ali Abbas Zafar,Action Thriller,2017,150,565,6.9,161,Salman Khan,Katrina Kaif,hindi,Yash Raj Films
+15,MOV016,Baaghi 2,Ahmed Khan,Action Thriller,2018,60,254,6.3,148,Tiger Shroff,Disha Patani,hindi,Nadiadwala Grandson Entertainment
+16,MOV017,Thugs of Hindostan,Vijay Krishna Acharya,Action-Adventure,2018,300,335,4.5,167,Amitabh Bachchan,Aamir Khan,hindi,Yash Raj Films
+17,MOV018,Gully Boy,Zoya Akhtar,Musical Drama,2019,40,238,7.8,153,Ranveer Singh,Alia Bhatt,hindi,Excel Entertainment
+18,MOV019,War,Siddharth Anand,Action Thriller,2019,150,475,6.8,154,Hrithik Roshan,Tiger Shroff,hindi,Yash Raj Films
+19,MOV020,Tanaji: The Unsung Warrior,Om Raut,Historical Action,2020,150,368,7.1,135,Ajay Devgn,Kajol,hindi,Ajay Devgn FFilms
+40,MOV041,Dilwale Dulhania Le Jayenge,Aditya Chopra,Romance,1995,4,61,7.7,189,Shah Rukh Khan,Kajol,hindi,Yash Raj Films
+42,MOV043,Lagaan,Ashutosh Gowariker,Historical Sports Drama,2001,25,67,8.1,224,Aamir Khan,Gracy Singh,hindi,Aamir Khan Productions
+44,MOV045,3 Idiots,Rajkumar Hirani,Comedy Drama,2009,35,460,8.4,171,Aamir Khan,Kareena Kapoor,hindi,Vidhu Vinod Chopra Productions
+46,MOV047,Dabangg,Abhinav Kashyap,Action Comedy,2010,30,215,6.3,126,Salman Khan,Sonakshi Sinha,hindi,Arbaaz Khan Productions
+47,MOV048,The Dirty Picture,Milan Luthria,Biographical Drama,2011,18,85,6.8,144,Vidya Balan,Naseeruddin Shah,hindi,Balaji Motion Pictures
+49,MOV050,Yeh Jawaani Hai Deewani,Ayan Mukerji,Romantic Comedy,2013,50,318,7.5,159,Ranbir Kapoor,Deepika Padukone,hindi,Dharma Productions
+50,MOV051,Kahaani,Sujoy Ghosh,Thriller,2012,8,79,8.1,122,Vidya Balan,Parambrata Chatterjee,hindi,Boundscript Motion Pictures
+52,MOV053,Hindi Medium,Saket Chaudhary,Comedy Drama,2017,23,69,7.5,132,Irrfan Khan,Saba Qamar,hindi,T-Series
+53,MOV054,Toilet: Ek Prem Katha,Shree Narayan Singh,Satirical Comedy,2017,24,216,7.3,155,Akshay Kumar,Bhumi Pednekar,hindi,Viacom 18 Motion Pictures
+54,MOV055,Badhaai Ho,Amit Ravindernath Sharma,Comedy Drama,2018,22,221,7.9,124,Ayushmann Khurrana,Sanya Malhotra,hindi,Junglee Pictures
